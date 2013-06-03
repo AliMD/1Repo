@@ -1,0 +1,10 @@
+{
+  "name": "1Repo",
+  "version": "1.0rc1",
+  "styles": "1repo.css",
+  "author": "Ali Mihandoost",
+  "description": "The files structure of our repositories.",
+  "keywords": ["1repo", "repo", "ali.md"],
+  "license": "Creative Commons Attribution 3.0",
+  "dependencies": {}
+}
